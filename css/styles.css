@@ -66,3 +66,22 @@ li {
   main{
     margin-top: 10%;
   }
+  footer{
+    margin-top: 15%;
+    display: block;
+    position: relative;
+    left: 0;
+    bottom: 0;
+   
+  }
+
+  #box{
+    margin-left: 8%;
+    max-width: 6%;
+    max-height: 6%;
+  }
+
+  #pageAuthor{
+    margin-top: -3%;
+    margin-left: 80%;
+  }
