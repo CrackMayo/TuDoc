@@ -27,3 +27,42 @@ li {
   a { text-decoration: none; 
       color: black;
   }
+
+  #generalDoctor{
+    margin-top: 8%;
+    margin-left: 31%;
+  }
+
+  .author{
+    font-size: 14.5px;
+    color: #2C2A2A;
+  }
+
+  #imgUser1{
+    margin-left: 37%;
+    margin-top: -50%;
+    max-width: 20%;
+    max-height: 20%;
+ 
+  }
+
+  #imgUser2{
+
+    max-width: 20%;
+    max-height: 20%;
+    
+  }
+
+  #medicalSpecialist{
+    margin-top: 1%;
+    margin-left: 30.5%;
+  }
+
+  #medicalSpecialistContent{
+    margin-left: 25.1%;
+    margin-top: -18%;
+  }
+
+  main{
+    margin-top: 10%;
+  }
